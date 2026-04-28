@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = yourshareddrive
+    gdrive_client_id = yourid
+    gdrive_client_secret = yoursecret
